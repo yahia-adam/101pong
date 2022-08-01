@@ -9,6 +9,10 @@ an oscilloscope. </p>
 <p>The goal of this project is to work on a 3D version of this game (or of the Breakout game. . . ). Only one paddle
 will be considered, located in the (Oxy) plane (which is defined by the equation z = 0).</p>
 
+<h2> Instalation </h2>
+
+      git clone git@github.com:Yahia-Abdchafee-ADAM/101pong.git
+
 ![101a](https://user-images.githubusercontent.com/91891487/182230090-79468661-0c22-4367-a8fc-c1b1e85820bf.png)
 
 <h2> Example</h2>
