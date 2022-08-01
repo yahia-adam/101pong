@@ -2,7 +2,7 @@
 
 ![101](https://user-images.githubusercontent.com/91891487/182229886-bfa41dd5-d110-49b2-8976-5a3291e8a971.png)
 
-
+<h2> Description </h2>
 <p>Pong, an arcade game developped in 1972 by Ralph Baer (Atari), is the first ever successful video game. It
 was inspired by the very first video game, Tennis for Two, developped in 1958 by William Higinbotham on
 an oscilloscope. </p>
